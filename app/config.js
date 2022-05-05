@@ -14,7 +14,7 @@ var proxySettings = {
 module.exports = {
 
     // use HTTPS?
-    useHttps: false,
+    useHttps: false, 
 
     // the path to the SSL key and cert. only used if useHttps is true
     privateKeyFilePath: 'nginx/ssl.key',
